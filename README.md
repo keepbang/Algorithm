@@ -30,7 +30,8 @@
 * [LeetCode 문제 풀기](https://leetcode.com/)
 
 ## 주차별 문제 보기
-[Weekly](https://github.com/Turtle-Coders/Algorithm/blob/main/weekly.md)
+### Week 1 (2020.11.02 ~ 2020.11.08)
+- [Link](https://github.com/Turtle-Coders/Algorithm/blob/main/Weekly/Turtle-Coder%201%EC%A3%BC%EC%B0%A8(2020-11-02)/README.md)
 
 ## 알고리즘 문제 분류
 
