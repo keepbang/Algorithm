@@ -1,12 +1,11 @@
 Week 1
-
-각자 이름/닉네임 폴더명에 문제 풀고 파일 올리기!
-
 Leetcode
 
-Q1. Insertion Sort List
-Link : https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3517/
+Q1. Insertion Sort List -- leetcode challenge(2020 Nov)
+https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3517/
 
+Q2. word pattern
+https://leetcode.com/problems/word-pattern/
 
-IF WANT ADD ---------
-2. 
+Q3. Uncrossed Lines
+https://leetcode.com/problems/uncrossed-lines/
