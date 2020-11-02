@@ -30,7 +30,7 @@
 * [LeetCode 문제 풀기](https://leetcode.com/)
 
 ## 주차별 문제 보기
-(Weekly)[https://github.com/Turtle-Coders/Algorithm/blob/main/weekly.md]
+[Weekly](https://github.com/Turtle-Coders/Algorithm/blob/main/weekly.md)
 
 ## 알고리즘 문제 분류
 
