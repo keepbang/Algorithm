@@ -31,7 +31,7 @@
 
 ## 주차별 문제 보기
 ### Week 1 (2020.11.02 ~ 2020.11.08)
-- [Link](https://github.com/Turtle-Coders/Algorithm/blob/main/Weekly/Turtle-Coder%201%EC%A3%BC%EC%B0%A8(2020-11-02)/README.md)
+- [Link](https://github.com/Turtle-Coders/Algorithm/tree/main/Weekly/Week%201)
 
 ## 알고리즘 문제 분류
 
