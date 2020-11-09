@@ -37,9 +37,8 @@ Ahn_Sang_Hoon
 
 ## 🐢주차별 문제 보기
 
-### Week 1 (2020.11.02 ~ 2020.11.08)
+- [Week 1 (2020.11.02 ~ 2020.11.08)](https://github.com/Turtle-Coders/Algorithm/tree/main/Weekly/Week%201)
 
-- [Link](https://github.com/Turtle-Coders/Algorithm/tree/main/Weekly/Week%201)
 
 ## 🐢스터디 진도표
 
